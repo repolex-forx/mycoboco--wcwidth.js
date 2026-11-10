@@ -1,0 +1,30 @@
+{
+  "manifest_version": "1.0",
+  "org": "mycoboco",
+  "repo": "wcwidth.js",
+  "versions": [
+    {
+      "commit": "465c404299a523d88d901eee5895e01fabe94225",
+      "parsed_at": "2026-11-10T00:53:34.466953+00:00",
+      "filetree": "filetree/465c404299a523d88d901eee5895e01fabe94225.nq.gz",
+      "blobs": [
+        "blob/df2bbfba4193f97fc4f33999f1d3c51053881de8.nq.gz",
+        "blob/143fe1d228b6f189b1286392d2918e93f73b8b84.nq.gz",
+        "blob/64fd6940600bfc3e923c3c306e93e904ec26a906.nq.gz",
+        "blob/c2658d7d1b31848c3b71960543cb0368e56cd4c7.nq.gz",
+        "blob/4c88537c43ef0eacdbbc9bca1e11ab20f992aa41.nq.gz",
+        "blob/526734d4bc49217d8521985c18410f3b0b858682.nq.gz",
+        "blob/9046ce4e575e3dcbeaa4be2e1e8177db314ca09e.nq.gz",
+        "blob/05e0f4b612078bfff7781e47bfec8e78bae3a7bd.nq.gz",
+        "blob/68658f9bede7eb3602f9df32b548b187b2c8bc7a.nq.gz",
+        "blob/24f19bec43c51d2af88b4da2353ada68f46a8fa7.nq.gz",
+        "blob/55a123d50b84b587fb1a46eda119b4e5195d7c75.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
