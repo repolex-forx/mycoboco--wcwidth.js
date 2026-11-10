@@ -1,0 +1,11 @@
+{
+  "org": "mycoboco",
+  "repo": "wcwidth.js",
+  "versions": [
+    {
+      "commit": "465c404299a523d88d901eee5895e01fabe94225",
+      "tag": "",
+      "parsed_at": "2026-11-10T00:55:36.118812+00:00"
+    }
+  ]
+}
