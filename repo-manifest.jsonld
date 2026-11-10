@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/mycoboco/wcwidth.js/commit/465c404299a523d88d901eee5895e01fabe94225",
       "git:hexsha": "465c404299a523d88d901eee5895e01fabe94225",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/mycoboco/wcwidth.js/commit/8e07ceb993077121edb8059c72dd56927ce3a1b4",
